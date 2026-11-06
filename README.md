@@ -20,7 +20,7 @@
 | Pets 外掛的官方驗證腳本能檢查標準動作列 | 已實測 |
 | 16 方向列由 Codex 一路生成並通過驗證 | 驗證中 |
 | 上架（`create_pet`）成功 | 尚未實測 |
-| 免費方案可完成全流程 | **未驗證**，請以你自己的方案實測為準 |
+| 免費方案可完成全流程 | **不行**：OpenAI 官方定價說明寫明 Free 方案沒有圖片生成（[learn.chatgpt.com/docs/pricing](https://learn.chatgpt.com/docs/pricing)），本教學的生圖步驟需要付費方案 |
 
 ## 授權
 
